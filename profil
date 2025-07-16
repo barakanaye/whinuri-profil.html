@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Profil - Whinuri Project | Internet Desa</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background-color: #004c8c;
+      color: #fff;
+      padding: 2em;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2em;
+    }
+    header p {
+      margin-top: 0.5em;
+      font-size: 1.1em;
+    }
+    .container {
+      max-width: 960px;
+      margin: 2em auto;
+      background-color: #fff;
+      padding: 2em;
+      border-radius: 12px;
+      box-shadow: 0 0 12px rgba(0, 0, 0, 0.05);
+    }
+    .profile-img {
+      width: 160px;
+      border-radius: 100px;
+      margin-bottom: 1em;
+    }
+    h2, h3 {
+      color: #004880;
+    }
+    ul {
+      padding-left: 1.5em;
+    }
+    .contact a {
+      color: #004c8c;
+      text-decoration: none;
+    }
+    .footer {
+      background: #f0f0f0;
+      text-align: center;
+      padding: 1.5em;
+      color: #666;
+      font-size: 0.9em;
+      margin-top: 2em;
+    }
+    .logo {
+      font-weight: bold;
+      font-size: 1.2em;
+      color: #004c8c;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="logo">🌐 Whinuri Project</div>
+  <h1>Internet Desa untuk Wilayah Blank Spot</h1>
+  <p>Mewujudkan Konektivitas dan Inklusi Digital di Pelosok Nusantara</p>
+</header>
+
+<div class="container">
+  <center>
+    <img src="https://via.placeholder.com/160x160.png?text=Foto+Profil" alt="Foto Profil" class="profile-img" />
+    <h2>Tim Whinuri Project</h2>
+    <p><em>Inisiator Program & Penggerak Teknologi Pedesaan</em></p>
+  </center>
+
+  <h3>Latar Belakang</h3>
+  <p>
+    Kami adalah bagian dari komunitas desa yang menyaksikan langsung bagaimana keterbatasan akses internet dapat menghambat kemajuan pendidikan, pelayanan publik, dan komunikasi masyarakat. Wilayah blank spot masih menjadi tantangan besar bagi pemerataan pembangunan digital di Indonesia.
+  </p>
+
+  <p>
+    Oleh karena itu, kami menggagas <strong>Whinuri Project</strong> sebagai langkah nyata menghadirkan layanan <strong>Internet Desa berbasis teknologi Starlink</strong>. Kami berkomitmen membuka akses digital yang selama ini tertutup di desa-desa pelosok.
+  </p>
+
+  <h3>Tujuan Program</h3>
+  <ul>
+    <li>Memberikan internet cepat dan stabil ke daerah tanpa jaringan</li>
+    <li>Memfasilitasi pelatihan literasi digital di masyarakat</li>
+    <li>Memperkuat pelayanan publik melalui sistem online</li>
+    <li>Mendukung generasi muda desa dalam dunia digital</li>
+  </ul>
+
+  <h3>Visi Whinuri Project</h3>
+  <p>
+    Menjadikan desa sebagai bagian dari transformasi digital nasional melalui:
+  </p>
+  <ul>
+    <li>Desa Cerdas (Smart Village)</li>
+    <li>Layanan pemerintahan digital yang transparan dan efisien</li>
+    <li>Kemandirian teknologi dan akses digital setara</li>
+  </ul>
+
+  <h3>Kolaborasi dan Dukungan</h3>
+  <p>
+    Whinuri Project siap bermitra dengan pemerintah desa, kecamatan, dinas komunikasi dan informatika, lembaga pelatihan, serta penyedia layanan teknologi. Dengan kolaborasi lintas sektor, proyek ini dapat diperluas untuk menjangkau lebih banyak wilayah yang belum terlayani.
+  </p>
+
+  <h3>Kontak Resmi</h3>
+  <p class="contact">
+    📧 Email: <a href="mailto:whinuriprojectteam@email.com">whinuriprojectteam@email.com</a><br>
+    📱 WhatsApp: <a href="https://wa.me/6285251364586" target="_blank">+62 852-5136-4586</a><br>
+    🌐 Website: <a href="https://barakanaye.github.io/whinuri-project">barakanaye.github.io/whinuri-project</a>
+  </p>
+</div>
+
+<div class="footer">
+  &copy; 2025 Whinuri Project - Untuk Desa Cerdas dan Terhubung.
+</div>
+
+</body>
+</html>
